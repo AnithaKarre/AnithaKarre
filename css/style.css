@@ -148,14 +148,11 @@ a:hover {
 }
 
 .title-a {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
   text-transform: uppercase;
 }
 
-.subtitle-a {
-  color: #4e4e4e;
-}
 
 .line-mf {
   width: 40px;
@@ -709,6 +706,7 @@ a:hover {
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+ 
 }
 
 .service-box:hover .ico-circle {
@@ -773,6 +771,7 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  padding:  20px;
 }
 
 .work-box:hover img {
@@ -1268,4 +1267,8 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+}
+.solo a{
+ color: red;
+
 }
